@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Elizabethucar/databas/issues"
   },
-  "homepage": "https://github.com/Elizabethucar/databas#readme"
+  "homepage": "https://github.com/Elizabethucar/databas#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
